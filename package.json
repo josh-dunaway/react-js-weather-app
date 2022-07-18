@@ -14,7 +14,7 @@
     "react-select-async-paginate": "^0.6.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://josh-dunaway.github.io/react-weather-app",
+  "homepage": "https://github.com/josh-dunaway/react-weather-app/tree/gh-pages",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
